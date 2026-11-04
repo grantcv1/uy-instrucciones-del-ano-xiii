@@ -39,3 +39,13 @@ Editions of this text differ, and many online versions modernize the spelling. *
 ## Fonts
 
 The stylesheet embeds Pinyon Script and Old Standard TT, licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The text of 1813 is believed to be in the public domain. It follows the printing in *Archivo Artigas*, tomo XI, and the status of that edition has not been confirmed.
+- **Images:** A painting by Diógenes Hequet, marked public domain on Wikimedia Commons.
+- **Fonts:** Pinyon Script and Old Standard TT, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
